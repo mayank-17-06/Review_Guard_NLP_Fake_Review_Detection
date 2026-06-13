@@ -50,7 +50,3 @@ Online marketplaces often suffer from fake reviews that mislead customers and af
 * Deep Learning Models
 * Real-time Web Application
 * Explainable AI Dashboard
-
-## Author
-
-Mayank Yadav
